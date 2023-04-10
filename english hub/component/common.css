@@ -1,0 +1,22 @@
+/* home body */
+
+.m1 {
+    margin-top: 50px;
+    margin-right: 27px;
+}
+
+:root {
+    --bg-img: url(../imgs/header-background.jpg);
+    --bg-col: #292430;
+    /*for deatil */
+    --text-col: white;
+}
+
+
+/* for image-2 */
+
+.m2 {
+    margin: 0 180px;
+}
+
+.m3 {}
